@@ -1,0 +1,140 @@
+body {
+  font: 15px "Open Sans", Arial, sans-serif; }
+
+header {
+  background-color: #2997ab; }
+
+h1 {
+  font-size: 75px; }
+
+h1 {
+  color: blue; }
+
+h1 {
+  font-size: 75px; }
+
+h2 {
+  font-size: 37.5px; }
+
+h3 {
+  font-size: 25px; }
+
+h4 {
+  font-size: 18.75px; }
+
+h5 {
+  font-size: 15px; }
+
+.slide1 {
+  height: 200px;
+  width: 600px;
+  background: url("../images/slide1.jpg"); }
+
+.slide2 {
+  height: 200px;
+  width: 600px;
+  background: url("../images/slide2.jpg"); }
+
+.slide3 {
+  height: 200px;
+  width: 600px;
+  background: url("../images/slide3.jpg"); }
+
+.width-160 {
+  margin-top: 10px;
+  width: 160px;
+  background: black;
+  height: 20px; }
+
+.width-140 {
+  margin-top: 10px;
+  width: 140px;
+  background: black;
+  height: 20px; }
+
+.width-120 {
+  margin-top: 10px;
+  width: 120px;
+  background: black;
+  height: 20px; }
+
+.width-100 {
+  margin-top: 10px;
+  width: 100px;
+  background: black;
+  height: 20px; }
+
+.width-80 {
+  margin-top: 10px;
+  width: 80px;
+  background: black;
+  height: 20px; }
+
+.width-60 {
+  margin-top: 10px;
+  width: 60px;
+  background: black;
+  height: 20px; }
+
+.box {
+  margin-top: 10px;
+  background: red;
+  height: 100px;
+  width: 1100px; }
+
+header ul {
+  background-color: #38b8cf;
+  padding: 15px; }
+  header ul li {
+    list-style: none;
+    display: inline; }
+    header ul li a {
+      color: white; }
+
+.sidebar {
+  background-color: #2997ab;
+  color: white;
+  -webkit-box-shadow: 0 0 10px black;
+          box-shadow: 0 0 10px black;
+  padding: 25px;
+  width: 300px;
+  display: inline-block; }
+
+.custom-box-1 {
+  background: #2997ab;
+  color: white;
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block; }
+
+.custom-box-2 {
+  background: black;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block; }
+
+.custom-box-3 {
+  background: coral;
+  color: black;
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+  height: 500px; }
+
+.button-orange, .button-green {
+  padding: 15px;
+  width: 300px;
+  font-size: 18px;
+  background: #2997ab;
+  color: white;
+  border: none; }
+
+.button-orange {
+  background: coral; }
+
+.button-green {
+  background: darkgreen; }
